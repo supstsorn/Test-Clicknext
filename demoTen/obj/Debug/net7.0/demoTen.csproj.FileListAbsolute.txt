@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoTen\bin\Debug\net7.0\demoTen.exe
+C:\Users\supatsorn\Desktop\TestC#\demoTen\bin\Debug\net7.0\demoTen.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoTen\bin\Debug\net7.0\demoTen.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoTen\bin\Debug\net7.0\demoTen.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTen\bin\Debug\net7.0\demoTen.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\refint\demoTen.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\demoTen.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTen\obj\Debug\net7.0\ref\demoTen.dll

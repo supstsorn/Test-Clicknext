@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoFour\bin\Debug\net7.0\demoFour.exe
+C:\Users\supatsorn\Desktop\TestC#\demoFour\bin\Debug\net7.0\demoFour.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoFour\bin\Debug\net7.0\demoFour.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoFour\bin\Debug\net7.0\demoFour.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFour\bin\Debug\net7.0\demoFour.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\refint\demoFour.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\demoFour.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFour\obj\Debug\net7.0\ref\demoFour.dll

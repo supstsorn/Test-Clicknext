@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoSix\bin\Debug\net7.0\demoSix.exe
+C:\Users\supatsorn\Desktop\TestC#\demoSix\bin\Debug\net7.0\demoSix.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoSix\bin\Debug\net7.0\demoSix.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoSix\bin\Debug\net7.0\demoSix.dll
+C:\Users\supatsorn\Desktop\TestC#\demoSix\bin\Debug\net7.0\demoSix.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.dll
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\refint\demoSix.dll
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\demoSix.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoSix\obj\Debug\net7.0\ref\demoSix.dll

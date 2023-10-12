@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoFive\bin\Debug\net7.0\demoFive.exe
+C:\Users\supatsorn\Desktop\TestC#\demoFive\bin\Debug\net7.0\demoFive.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoFive\bin\Debug\net7.0\demoFive.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoFive\bin\Debug\net7.0\demoFive.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFive\bin\Debug\net7.0\demoFive.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\refint\demoFive.dll
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\demoFive.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoFive\obj\Debug\net7.0\ref\demoFive.dll

@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\bin\Debug\net7.0\demoTwo.exe
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\bin\Debug\net7.0\demoTwo.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\bin\Debug\net7.0\demoTwo.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\bin\Debug\net7.0\demoTwo.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\bin\Debug\net7.0\demoTwo.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\refint\demoTwo.dll
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\demoTwo.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoTwo\obj\Debug\net7.0\ref\demoTwo.dll

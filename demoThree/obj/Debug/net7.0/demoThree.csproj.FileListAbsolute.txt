@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoThree\bin\Debug\net7.0\demoThree.exe
+C:\Users\supatsorn\Desktop\TestC#\demoThree\bin\Debug\net7.0\demoThree.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoThree\bin\Debug\net7.0\demoThree.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoThree\bin\Debug\net7.0\demoThree.dll
+C:\Users\supatsorn\Desktop\TestC#\demoThree\bin\Debug\net7.0\demoThree.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.dll
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\refint\demoThree.dll
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\demoThree.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoThree\obj\Debug\net7.0\ref\demoThree.dll

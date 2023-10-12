@@ -1,0 +1,14 @@
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\bin\Debug\net7.0\demoEleven.exe
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\bin\Debug\net7.0\demoEleven.deps.json
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\bin\Debug\net7.0\demoEleven.runtimeconfig.json
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\bin\Debug\net7.0\demoEleven.dll
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\bin\Debug\net7.0\demoEleven.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.AssemblyInfoInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.AssemblyInfo.cs
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.csproj.CoreCompileInputs.cache
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.dll
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\refint\demoEleven.dll
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.pdb
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\demoEleven.genruntimeconfig.cache
+C:\Users\supatsorn\Desktop\TestC#\demoEleven\obj\Debug\net7.0\ref\demoEleven.dll
