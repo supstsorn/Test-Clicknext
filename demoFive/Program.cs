@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+// See https://aka.ms/new-console-template for more information
 using System;
 
 namespace demoFive
@@ -13,16 +13,17 @@ namespace demoFive
 
         for (int i = 1; i <= Loop; i++)
         {
-            for(s = 1; s<= i; s++ ){
-                Console.Write(" ");
-            }
-            for(s = 1; s <= i; s++){
+          // sloop = Loop-i;
+            for(s = 1; s <= i; s++ ){
                 Console.Write(number);
                 number++;
+            }
+            for(s = 1 ; s < (Loop-i)+1; s++){
+
             }         
-            for(s = Loop-i; s >= 1; s--){
-                Console.Write( "1" , s);
-        }
+        //     for(s = Loop-sloop; s > 1; s--){
+        //         Console.Write( number);
+        // }
             Console.Write("\n");
         }
       Console.WriteLine();    
